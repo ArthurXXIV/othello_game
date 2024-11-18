@@ -29,7 +29,7 @@ Othello is a game that combines tactical and strategic thinking. Players must be
 Room for Expansion: The project lays the foundation for further development. Future enhancements might include difficulty levels for the AI, additional graphical effects, sound, and multiplayer functionality.
 
 
-Authors
+#Authors
 
 Atharva Nilawar
 
